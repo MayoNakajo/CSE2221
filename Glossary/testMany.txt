@@ -1,0 +1,7 @@
+fruit
+apple
+banana
+
+vegetable
+carrot
+spinach
